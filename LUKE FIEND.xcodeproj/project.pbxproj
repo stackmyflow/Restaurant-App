@@ -48,7 +48,7 @@
 		5C9DC1451BD2B56100F78E20 /* LUKE FIENDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LUKE FIENDUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C9DC1491BD2B56200F78E20 /* LUKE_FIENDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LUKE_FIENDUITests.swift; sourceTree = "<group>"; };
 		5C9DC14B1BD2B56200F78E20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5C9DC1961BD3234500F78E20 /* food-6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "food-6.jpg"; path = "../../../Kayla's Stuff/food-6.jpg"; sourceTree = "<group>"; };
+		5C9DC1961BD3234500F78E20 /* food-6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "food-6.jpg"; path = "../../../Downloads/food-6.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -487,6 +487,7 @@
 				5C9DC1501BD2B56200F78E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C9DC1511BD2B56200F78E20 /* Build configuration list for PBXNativeTarget "LUKE FIENDTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				5C9DC1531BD2B56200F78E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C9DC1541BD2B56200F78E20 /* Build configuration list for PBXNativeTarget "LUKE FIENDUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +505,7 @@
 				5C9DC1561BD2B56200F78E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
