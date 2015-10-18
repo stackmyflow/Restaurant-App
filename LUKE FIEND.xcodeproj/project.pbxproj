@@ -15,6 +15,8 @@
 		5C9DC13F1BD2B56100F78E20 /* LUKE_FIENDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9DC13E1BD2B56100F78E20 /* LUKE_FIENDTests.swift */; };
 		5C9DC14A1BD2B56200F78E20 /* LUKE_FIENDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9DC1491BD2B56200F78E20 /* LUKE_FIENDUITests.swift */; };
 		5C9DC1971BD3234500F78E20 /* food-6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5C9DC1961BD3234500F78E20 /* food-6.jpg */; settings = {ASSET_TAGS = (); }; };
+		5C9DC1991BD4309D00F78E20 /* food.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C9DC1981BD4309D00F78E20 /* food.png */; settings = {ASSET_TAGS = (); }; };
+		5C9DC19B1BD4310F00F78E20 /* restaurant.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C9DC19A1BD4310F00F78E20 /* restaurant.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		5C9DC1491BD2B56200F78E20 /* LUKE_FIENDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LUKE_FIENDUITests.swift; sourceTree = "<group>"; };
 		5C9DC14B1BD2B56200F78E20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C9DC1961BD3234500F78E20 /* food-6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "food-6.jpg"; path = "../../../Kayla's Stuff/food-6.jpg"; sourceTree = "<group>"; };
+		5C9DC1981BD4309D00F78E20 /* food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = food.png; path = ../../../../Downloads/food/food.png; sourceTree = "<group>"; };
+		5C9DC19A1BD4310F00F78E20 /* restaurant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = restaurant.png; path = ../../../../Downloads/restaurant/restaurant.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +107,9 @@
 				5C9DC12B1BD2B56100F78E20 /* ViewController.swift */,
 				5C9DC12D1BD2B56100F78E20 /* Main.storyboard */,
 				5C9DC1301BD2B56100F78E20 /* Assets.xcassets */,
+				5C9DC1981BD4309D00F78E20 /* food.png */,
 				5C9DC1961BD3234500F78E20 /* food-6.jpg */,
+				5C9DC19A1BD4310F00F78E20 /* restaurant.png */,
 				5C9DC1321BD2B56100F78E20 /* LaunchScreen.storyboard */,
 				5C9DC1351BD2B56100F78E20 /* Info.plist */,
 			);
@@ -232,8 +238,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C9DC1971BD3234500F78E20 /* food-6.jpg in Resources */,
+				5C9DC1991BD4309D00F78E20 /* food.png in Resources */,
 				5C9DC1341BD2B56100F78E20 /* LaunchScreen.storyboard in Resources */,
 				5C9DC1311BD2B56100F78E20 /* Assets.xcassets in Resources */,
+				5C9DC19B1BD4310F00F78E20 /* restaurant.png in Resources */,
 				5C9DC12F1BD2B56100F78E20 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -487,6 +495,7 @@
 				5C9DC1501BD2B56200F78E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C9DC1511BD2B56200F78E20 /* Build configuration list for PBXNativeTarget "LUKE FIENDTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +504,7 @@
 				5C9DC1531BD2B56200F78E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C9DC1541BD2B56200F78E20 /* Build configuration list for PBXNativeTarget "LUKE FIENDUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +513,7 @@
 				5C9DC1561BD2B56200F78E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
