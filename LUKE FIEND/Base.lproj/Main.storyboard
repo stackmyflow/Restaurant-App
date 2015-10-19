@@ -29,7 +29,7 @@
                                 <color key="highlightedColor" red="1" green="1" blue="1" alpha="0.40000000000000002" colorSpace="calibratedRGB"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="19I-vZ-XNS">
-                                <rect key="frame" x="37" y="265" width="250" height="36"/>
+                                <rect key="frame" x="42" y="265" width="245" height="30"/>
                                 <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.33000000000000002" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Press Me For Food!">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
